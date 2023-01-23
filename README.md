@@ -1,2 +1,2 @@
-# Ola-Mundo
- Primeiro projeto do Git e GuiHub
+# Olá, Mundo!
+ Primeiro projeto com Git e GuiHub
